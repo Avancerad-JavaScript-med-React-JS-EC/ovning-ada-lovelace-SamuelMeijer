@@ -1,0 +1,1 @@
+console.log('Filen som loggas är index.js');

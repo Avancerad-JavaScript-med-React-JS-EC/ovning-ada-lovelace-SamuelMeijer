@@ -57,7 +57,7 @@ module.exports = {
       minimize: false
     },
     "entry": {
-      index: ['babel-polyfill', './js/index.js']
+      index: ['babel-polyfill', './js/app.js']
     },
     "plugins": [
       new CopyPlugin({
